@@ -11,7 +11,7 @@
 - Battery-optimized kernel
 - Pre-rooted with Magisk
 - Improved gaming performance
-- Debugged Customization
+- Debugged Insane Customizations🔥
 - Best combination for Rooted features and Hacking tools
 
 ## 🛠 Installation
@@ -22,7 +22,7 @@
 5. Reboot and enjoy!
 
 ## 🔗 Downloads
-📦 [Download ROM](https://drive.google.com/...)  
+📦 [Download ROM](https://drive.google.com/drive/folders/1F1llHgqhuJq1fYwD92LSKWpHquBLMqba)  
 🗒️ [Changelog](changelog.md)
 
 ---
